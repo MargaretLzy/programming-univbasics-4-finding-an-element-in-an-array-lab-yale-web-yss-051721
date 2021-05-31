@@ -4,7 +4,7 @@ length = array.length
 length.times do |index|
   if array[index]==value_to_find
     index
-else
+end
    nil
 end
 end
