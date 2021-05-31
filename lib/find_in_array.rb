@@ -4,8 +4,6 @@ length = array.length
 length.times do |index|
   if array[index]==value_to_find
     index
-else
-   nil
  end
 end
 end
