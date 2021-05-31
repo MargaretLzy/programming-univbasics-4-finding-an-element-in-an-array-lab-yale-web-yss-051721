@@ -6,5 +6,6 @@ length.times do |index|
     index
 else
    nil
+ end
 end
 end
